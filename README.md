@@ -41,8 +41,8 @@ I'm a final-year **Data Science & Engineering** student at Universidad Carlos II
 
 ### 📊 GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dondarjl&show_icons=true&theme=default&hide_border=true)](https://github.com/dondarjl)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dondarjl&layout=compact&hide_border=true)](https://github.com/dondarjl)
 
 ---
 
