@@ -9,7 +9,7 @@
 
 I'm a final-year **Data Science & Engineering** student at Universidad Carlos III de Madrid, passionate about turning raw data into meaningful decisions. I have hands-on experience in predictive modelling, ETL pipelines, and NLP, gained both academically and in a professional internship.
 
-🌍 International experience via Erasmus+ &nbsp;·&nbsp; 🇬🇧 C1 English &nbsp;·&nbsp; 🇫🇷 B1 French &nbsp;·&nbsp; 🇩🇪 A1+ German
+🌍 International experience via Erasmus+ &nbsp;·&nbsp;  C1 English &nbsp;·&nbsp;  B1 French &nbsp;·&nbsp;  A1+ German
 
 ---
 
@@ -115,7 +115,7 @@ Estudiante de último año del Grado en **Ciencia e Ingeniería de Datos** en la
 
 - Grado en Ciencia e Ingeniería de Datos · UC3M · GPA: 7.46
 - Erasmus+ en Computer Science · Lublin University of Technology · **GPA: 9.23**
-- Inglés C1 Advanced · Francés B1
+- Inglés C1 Advanced · Francés B1 · Alemán A1+
 
 ### 📫 Contacto
 
