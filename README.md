@@ -55,7 +55,7 @@ I'm a final-year **Data Science & Engineering** student at Universidad Carlos II
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🧳 Tabi](https://github.com/dondarjl/tabi) | Travel social media app for Android — users share detailed trip reports with cost breakdowns and real experiences, built twice with different tech stacks | Kotlin · Android · Firebase · Python · Supabase |
-| [🏨 Hotel Review NLP](https://github.com/dondarjl/hotel-review-nlp) | Compared TF-IDF, Word2Vec, LDA and BERT for hotel rating prediction on a custom 10k-review dataset collected via Google Places API. Best model: BERT (R²=0.726, RMSE=0.786) | Python · PyTorch · Scikit-learn · Transformers · SpaCy |
+| [🏨 Hotel Review NLP](https://github.com/dondarjl/Hotel-Review-NLP) | Compared TF-IDF, Word2Vec, LDA and BERT for hotel rating prediction on a custom 10k-review dataset collected via Google Places API. Best model: BERT (R²=0.726, RMSE=0.786) | Python · PyTorch · Scikit-learn · Transformers · SpaCy |
 | [🛡️ Adversarial Robustness — CIFAR-10](https://github.com/dondarjl/cifar10-adversarial-training) | Studied how FGSM adversarial training affects accuracy and calibration (ECE/NLL) across a Small CNN and ResNet-18 at multiple attack budgets | Python · PyTorch · FGSM · PGD |
 | [🌍 Connect Georgia](https://github.com/dondarjl/connect-georgia) | Travel agency concept connecting European travellers to undiscovered Georgia — pitch deck, local guide partnership proposal and landing page | HTML · CSS · Canva |
 
