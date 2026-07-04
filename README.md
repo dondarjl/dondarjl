@@ -69,13 +69,6 @@ I'm a final-year **Data Science & Engineering** student at Universidad Carlos II
 
 ---
 
-### 📊 GitHub stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dondarjl&show_icons=true&theme=default&hide_border=true)](https://github.com/dondarjl)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dondarjl&layout=compact&hide_border=true)](https://github.com/dondarjl)
-
----
-
 ### 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-javierlopezdondarza1@gmail.com-blue?style=flat&logo=gmail)](mailto:javierlopezdondarza1@gmail.com)
@@ -106,8 +99,8 @@ Estudiante de último año del Grado en **Ciencia e Ingeniería de Datos** en la
 
 | Proyecto | Descripción | Stack |
 |---------|-------------|-------|
-| [🧳 Tabi](https://github.com/dondarjl/tabi) | App Android de viajes donde usuarios comparten informes detallados de sus viajes con costes reales. Desarrollada con dos stacks distintos | Kotlin · Android · Firebase · Python · Supabase |
-| [🏨 Hotel Review NLP](https://github.com/dondarjl/hotel-review-nlp) | Comparación de TF-IDF, Word2Vec, LDA y BERT para predecir valoraciones de hoteles sobre un dataset propio de 10k reseñas. Mejor modelo: BERT (R²=0.726) | Python · PyTorch · Scikit-learn · Transformers |
+| [🧳 Tabi](https://github.com/dondarjl/Tabi-TravelApp) | App Android de viajes donde usuarios comparten informes detallados de sus viajes con costes reales. Desarrollada con dos stacks distintos | Kotlin · Android · Firebase · Python · Supabase |
+| [🏨 Hotel Review NLP](https://github.com/dondarjl/Hotel-Review-NLP) | Comparación de TF-IDF, Word2Vec, LDA y BERT para predecir valoraciones de hoteles sobre un dataset propio de 10k reseñas. Mejor modelo: BERT (R²=0.726) | Python · PyTorch · Scikit-learn · Transformers |
 | [🛡️ Adversarial Robustness — CIFAR-10](https://github.com/dondarjl/cifar10-adversarial-training) | Análisis del impacto del entrenamiento adversario (FGSM) sobre robustez y calibración en CNN y ResNet-18 | Python · PyTorch |
 | [🌍 Connect Georgia](https://github.com/dondarjl/connect-georgia) | Concepto de agencia de viajes para conectar europeos con Georgia — propuesta de negocio, pitch deck y landing page | HTML · CSS |
 
