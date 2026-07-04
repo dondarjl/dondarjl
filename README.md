@@ -57,7 +57,7 @@ I'm a final-year **Data Science & Engineering** student at Universidad Carlos II
 | [🧳 Tabi](https://github.com/dondarjl/Tabi-TravelApp) | Travel social media app for Android — users share detailed trip reports with cost breakdowns and real experiences, built twice with different tech stacks | Kotlin · Android · Firebase · Python · Supabase |
 | [🏨 Hotel Review NLP](https://github.com/dondarjl/Hotel-Review-NLP) | Compared TF-IDF, Word2Vec, LDA and BERT for hotel rating prediction on a custom 10k-review dataset collected via Google Places API. Best model: BERT (R²=0.726, RMSE=0.786) | Python · PyTorch · Scikit-learn · Transformers · SpaCy |
 | [🛡️ Adversarial Robustness — CIFAR-10](https://github.com/dondarjl/cifar10-adversarial-training) | Studied how FGSM adversarial training affects accuracy and calibration (ECE/NLL) across a Small CNN and ResNet-18 at multiple attack budgets | Python · PyTorch · FGSM · PGD |
-| [🌍 Connect Georgia](https://github.com/dondarjl/connect-georgia) | Travel agency concept connecting European travellers to undiscovered Georgia — pitch deck, local guide partnership proposal and landing page | HTML · CSS · Canva |
+| [🌍 Connect Georgia](https://github.com/dondarjl/connectgeorgiasp) | Travel agency concept connecting European travellers to undiscovered Georgia — pitch deck, local guide partnership proposal and landing page | HTML · CSS · Canva |
 
 ---
 
@@ -102,7 +102,7 @@ Estudiante de último año del Grado en **Ciencia e Ingeniería de Datos** en la
 | [🧳 Tabi](https://github.com/dondarjl/Tabi-TravelApp) | App Android de viajes donde usuarios comparten informes detallados de sus viajes con costes reales. Desarrollada con dos stacks distintos | Kotlin · Android · Firebase · Python · Supabase |
 | [🏨 Hotel Review NLP](https://github.com/dondarjl/Hotel-Review-NLP) | Comparación de TF-IDF, Word2Vec, LDA y BERT para predecir valoraciones de hoteles sobre un dataset propio de 10k reseñas. Mejor modelo: BERT (R²=0.726) | Python · PyTorch · Scikit-learn · Transformers |
 | [🛡️ Adversarial Robustness — CIFAR-10](https://github.com/dondarjl/cifar10-adversarial-training) | Análisis del impacto del entrenamiento adversario (FGSM) sobre robustez y calibración en CNN y ResNet-18 | Python · PyTorch |
-| [🌍 Connect Georgia](https://github.com/dondarjl/connect-georgia) | Concepto de agencia de viajes para conectar europeos con Georgia — propuesta de negocio, pitch deck y landing page | HTML · CSS |
+| [🌍 Connect Georgia](https://github.com/dondarjl/connectgeorgiasp) | Concepto de agencia de viajes para conectar europeos con Georgia — propuesta de negocio, pitch deck y landing page | HTML · CSS |
 
 ### 🎓 Formación destacada
 
