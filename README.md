@@ -1,7 +1,7 @@
 <!-- 🇬🇧 ENGLISH VERSION -->
 
 ## Hi, I'm Javier López Dondarza 👋
-**Data Science & Engineering student · UC3M Madrid · Erasmus @ Lublin, Poland**
+**Data Science & Engineering student · UC3M Madrid · Erasmus · Lublin, Poland · Wellington, New Zealand**
 
 > 🟢 Open to internships & junior roles in Data Science / ML Engineering
 
@@ -82,7 +82,7 @@ I'm a final-year **Data Science & Engineering** student at Universidad Carlos II
 <summary>🇪🇸 Ver en español</summary>
 
 ## Hola, soy Javier López Dondarza 👋
-**Estudiante de Ciencia e Ingeniería de Datos · UC3M Madrid · Erasmus @ Lublin, Polonia**
+**Estudiante de Ciencia e Ingeniería de Datos · UC3M Madrid · Erasmus · Lublin, Polonia · Wellington, Nueva Zelanda**
 
 > 🟢 En búsqueda activa de prácticas y posiciones junior en Ciencia de Datos / ML Engineering
 
